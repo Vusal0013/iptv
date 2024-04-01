@@ -1,0 +1,55 @@
+#EXTM3U
+
+#EXTINF:-1, AzTV
+http://149.255.152.199/aztv.m3u8?user=37076&token=9a5b79ce40ef1fb1d9576e4fc8184c03&e=1712052957&bands=796.6096&sid=coder_53
+
+#EXTINF:-1, Mədəniyyət
+http://149.255.152.199/medeniyet.m3u8?user=37076&token=5c8cbfac5509a7878f22050e28b54d1d&e=1712053097&bands=796.2096&sid=coder_52
+
+#EXTINF:-1, ITV
+http://149.255.152.199/ictimai.m3u8?user=37076&token=8fe1b53ca3532777bf8f3d1e6d5239f7&e=1712053162&bands=796.2096&sid=coder_52
+
+#EXTINF:-1, ATV
+http://149.255.152.199/atvaz.m3u8?user=37076&token=234b799b88910a6ba4470cd6aeaac604&e=1712044406&bands=796.2096&sid=coder_53
+
+#EXTINF:-1, Xəzər
+http://149.255.152.199/xazer.m3u8?user=37076&token=529cdd864f2da1389e0f2ed09f3e271a&e=1712053214&bands=796.2096&sid=coder_53
+
+#EXTINF:-1, Səhiyyə
+http://149.255.152.199/shtv.m3u8?user=37076&token=4555af140e5dff4b3b392f794c002082&e=1712053556&bands=796.2096&sid=coder_78
+
+#EXTINF:-1, Space
+http://149.255.152.199/space.m3u8?user=37076&token=9dec4dd708239ec0c74354a7847b66f7&e=1712053596&bands=796.2096.6096&sid=coder_75
+
+#EXTINF:-1, CBC
+http://149.255.152.199/cbcaz.m3u8?user=37076&token=add7c5446bc40be1f111b34eebe66c64&e=1712053643&bands=796.2096&sid=coder_52
+
+#EXTINF:-1, ARB HD
+http://149.255.152.199/arbhd.m3u8?user=37076&token=bcc60531da512594526f74b5771e2cc3&e=1712053721&bands=796.6096&sid=coder_62
+
+#EXTINF:-1, ARB 24
+http://149.255.152.199/arb24.m3u8?user=37076&token=cdabaf6b5b9af8c4289eea595db91786&e=1712053759&bands=796.2096&sid=coder_51
+
+#EXTINF:-1, ARB Günəş
+http://149.255.152.199/arbgunes.m3u8?user=37076&token=89ddfd3fa89a2b4451d8936ba68038d4&e=1712053784&bands=796.2096&sid=coder_52
+
+#EXTINF:-1, Kanal S
+http://149.255.152.199/kanals.m3u8?user=37076&token=1c025c07cb2f6241cfeaee052e6a61c0&e=1712053871&bands=796.2096.6096&sid=coder_57
+
+#EXTINF:-1, Real TV
+http://149.255.152.199/real.m3u8?user=37076&token=ddd6226db37e9382c13c3214c41f53bf&e=1712053932&bands=796.2096&sid=coder_79
+
+#EXTINF:-1, TMB AZ
+http://149.255.152.199/tmbaz.m3u8?user=37076&token=a0408bcdcd07c5ebafa2d0eb23878355&e=1712053986&bands=864.2096&sid=coder_40
+
+#EXTINF:-1, Baku TV
+http://149.255.152.199/bakutv.m3u8?user=37076&token=6c724371fad35e2d6968bd756337a5d5&e=1712054030&bands=756.2056.6056&sid=coder_57
+
+#EXTINF:-1, VIP HD
+http://149.255.152.199/vip.m3u8?user=37076&token=62d2786d8bfc4be662f20ce68b906516&e=1712054065&bands=796.2096&sid=coder_52
+
+#EXTINF:-1, MTV AZ
+http://149.255.152.199/mtvazerbaycan.m3u8?user=37076&token=05695d45add6e1fbeed3cf90246ca52d&e=1712054124&bands=796.2096&sid=coder_51
+
+#EXTINF:-1, TMB AZ
+http://149.255.152.199/tmbtv.m3u8?user=37076&token=18137c5168d20acfbd3697afdd4844fc&e=1712054170&bands=796.2096&sid=coder_52
