@@ -1,2 +1,2 @@
 # iptv
-use https://github.com/Vusal0013/iptv/index.m3u
+use m3u playlist https://vusal0013.github.io/iptv/
