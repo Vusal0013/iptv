@@ -51,5 +51,5 @@ http://149.255.152.199/vip.m3u8?user=37076&token=62d2786d8bfc4be662f20ce68b90651
 #EXTINF:-1, MTV AZ
 http://149.255.152.199/mtvazerbaycan.m3u8?user=37076&token=05695d45add6e1fbeed3cf90246ca52d&e=1712054124&bands=796.2096&sid=coder_51
 
-#EXTINF:-1, TMB AZ
+#EXTINF:-1, TMB TV
 http://149.255.152.199/tmbtv.m3u8?user=37076&token=18137c5168d20acfbd3697afdd4844fc&e=1712054170&bands=796.2096&sid=coder_52
