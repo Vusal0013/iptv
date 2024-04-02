@@ -19,7 +19,7 @@ http://149.255.152.199/xazer.m3u8?user=37076&token=529cdd864f2da1389e0f2ed09f3e2
 http://149.255.152.199/shtv.m3u8?user=37076&token=4555af140e5dff4b3b392f794c002082&e=1712053556&bands=796.2096&sid=coder_78
 
 #EXTINF:-1, Space
-http://149.255.152.199/space.m3u8?user=37076&token=9dec4dd708239ec0c74354a7847b66f7&e=1712053596&bands=796.2096.6096&sid=coder_75
+http://149.255.152.199/space.m3u8?user=37076&token=0a795a97b472a7cd5cca70478f289992&e=1712156760&bands=796.2096.6096&sid=coder_75
 
 #EXTINF:-1, CBC
 http://149.255.152.199/cbcaz.m3u8?user=37076&token=add7c5446bc40be1f111b34eebe66c64&e=1712053643&bands=796.2096&sid=coder_52
